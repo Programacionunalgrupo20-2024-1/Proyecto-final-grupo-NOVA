@@ -1,8 +1,9 @@
 # Proyecto NOVA "CapyBite" ₍ᐢ•(ܫ)•ᐢ₎
 
 ## 📜 Introducción 
-CapyBite es un juego de arcade que consiste en un chigüiro (capibara, carpincho) que intenta atrapar todo tipo de rica comida.
-Es un tipo arcade, con técnicas fáciles diseñado para ser adictivo y proporcionar diversión sin estrés. Tienes que ayudar a nuestro pequeño amigo para lograr comer la mayor cantidad de comida moviéndose de un lado a otro ⬅️ ➡️ evitando comer la asquerosa basura. 
+**"CapyBite"** es un juego de arcade que consiste en un chigüiro (capibara, carpincho) que intenta atrapar todo tipo de rica comida.
+Es un tipo arcade, con técnicas fáciles diseñado para ser adictivo y proporcionar diversión sin estrés. Tienes que ayudar a nuestro pequeño amigo para lograr comer la mayor cantidad de comida moviéndose de un lado a otro ⬅️ ➡️ evitando comer la asquerosa basura.
+
 ¿Podrás superar tu puntaje cada vez que juegues? Juega y descúbrelo.
 
 ## 🗃️ Tecnologias y bibliotecas 
