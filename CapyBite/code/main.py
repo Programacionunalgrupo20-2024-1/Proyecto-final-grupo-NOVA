@@ -58,6 +58,21 @@ def main_menu():
         text_rect = text.get_rect(center=(width // 2, height // 2))
         screen.blit(text, text_rect)
 
+        font = pygame.font.SysFont("Boba Milky", 20)
+        text = font.render("Controles:", True, (peach))
+        text_rect = text.get_rect(center=(width // 2, height // 1.65))
+        screen.blit(text, text_rect)
+
+        font = pygame.font.SysFont("Boba Milky", 20)
+        text = font.render("Flecha derecha", True, (terracotta))
+        text_rect = text.get_rect(center=(width // 2, height // 1.55))
+        screen.blit(text, text_rect)
+
+        font = pygame.font.SysFont("Boba Milky", 20)
+        text = font.render("Flecha izquierda", True, (terracotta))
+        text_rect = text.get_rect(center=(width // 2, height // 1.46))
+        screen.blit(text, text_rect)
+
         font_small = pygame.font.SysFont("Boba Milky", 25)
         high_score_text = font_small.render(f"HighScore: {high_score}", True, (terracotta))
         screen.blit(high_score_text, (10, 10))
