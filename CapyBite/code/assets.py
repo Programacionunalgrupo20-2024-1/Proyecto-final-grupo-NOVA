@@ -3,7 +3,7 @@ import pygame
 # Cargar imágenes del personaje animado
 
 player_images_left = [
-    pygame.image.load("../Documents/proyecto/CappyBiter/graphics/Capy_Izquierda/0.png"),
+    pygame.image.load("../graphics/Capy_Izquierda/0.png"),
     pygame.image.load("../graphics/Capy_Izquierda/1.png"),
     pygame.image.load("../graphics/Capy_Izquierda/2.png")
 ]
