@@ -23,7 +23,7 @@ Random: Es una biblioteca que nos permite generar números aleatorios.
 
 Encargada de la programación y diseño de la interfaz.
 ### Sergio Andrés Hernández López
-📧 sehernandezsa@unal.edu.co
+📧 sehernandezl@unal.edu.co
 
 Encargado de la programación y el manejo de la información sobre el proyecto.
 ### Sebastián Vanegas Toro:
