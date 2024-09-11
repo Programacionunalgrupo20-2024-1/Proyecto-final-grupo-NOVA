@@ -21,7 +21,7 @@ Random: Es una biblioteca que nos permite generar números aleatorios.
 ### Maria Jose Garcia Macias
 📧 mgarciamac@unal.edu.co
 
-Encargada de la programación y diseño de la interfaz.
+Encargada de la programación y diseño de los assets del juego.
 ### Sergio Andrés Hernández López
 📧 sehernandezl@unal.edu.co
 
@@ -29,7 +29,7 @@ Encargado de la programación y el manejo de la información sobre el proyecto.
 ### Sebastián Vanegas Toro:
 📧 svanegast@unal.edu.co
 
-Encargado de la programación y el diseño de personajes, obstáculos y ambiente
+Encargado de la programación y el diseño de la interfaz (Escenarios).
 
 # 🎨 Diseño del juego
 Uno de nuestros objetivos al comenzar a diseñar el juego era centrarnos en que la interfaz fuera lo más adorable posible, a continuación, enumeramos varios puntos a tener en cuenta al momento de cumplir este objetivo:
