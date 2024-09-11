@@ -1,5 +1,8 @@
 # Proyecto NOVA "CapyBite" ₍ᐢ•(ܫ)•ᐢ₎
 
+> [!IMPORTANT]
+> El juego contiene varias fuentes de texto externas las cuales puedes encontrar en la carpeta "fonts", te recomendamos instalarlas para tener una mejor experiencia visual del juego.
+
 ## 📜 Introducción 
 **"CapyBite"** es un juego de arcade que consiste en un chigüiro (capibara, carpincho) que intenta atrapar todo tipo de rica comida.
 Es un tipo arcade, con técnicas fáciles diseñado para ser adictivo y proporcionar diversión sin estrés. Tienes que ayudar a nuestro pequeño amigo para lograr comer la mayor cantidad de comida moviéndose de un lado a otro ⬅️ ➡️ evitando comer la asquerosa basura.
@@ -39,6 +42,3 @@ Assets hechos con: [LibreSprite](https://libresprite.github.io/#!/).
 Musica y efectos de sonido: [Pixabay](https://pixabay.com/es/sound-effects/).
 
 Programado en: [Sublime Text](https://www.sublimetext.com)
-
-> [!IMPORTANT]
-> El juego contiene varias fuentes de texto externas las cuales puedes encontrar en la carpeta "fonts", te recomendamos instalarlas para tener una mejor experiencia visual del juego.
