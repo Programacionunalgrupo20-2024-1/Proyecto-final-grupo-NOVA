@@ -31,22 +31,14 @@ Encargado de la programación y el manejo de la información sobre el proyecto.
 
 Encargado de la programación y el diseño de la interfaz (Escenarios).
 
-# 🎨 Diseño del juego
-Uno de nuestros objetivos al comenzar a diseñar el juego era centrarnos en que la interfaz fuera lo más adorable posible, a continuación, enumeramos varios puntos a tener en cuenta al momento de cumplir este objetivo:
-## 🔎 Visual
-+ Una paleta de colores cálida, pastel y acogedora, colores como el melocotón y terracota.
-  
-+ Tipografía “redondas y suaves” como “Coffee Spark” para el título y “Boba Milky” para el texto de menú y las puntuaciones. Son tipografías legibles y relajadas dándole ese toque suave y divertido al juego.
-  
-+ Personajes tiernos como el chigüiro, un roedor que ha tenido mucha relevancia estos últimos años, son considerados como animales tiernos ya que su aspecto redondo, ojos pequeños, orejas diminutas con una expresión dulce le dan ese toque.
-## 🎶 Sonora
-+ Tiene una música de fondo ligera y alegre complementando la atmosfera que queremos reflejar.
-  
-+ Agregamos efectos de sonidos para retroalimentar el objetivo de alegría y satisfacción.
-## ✒️ Nombre e icono
-+ Escogimos el nombre “CapyBite” ya que es un nombre corto y fácil de recordar. Jugando con las palabras Capybara y Bite ya que es la acción central del juego un chigüiro que muerde para atrapar la comida.
-## 🎮 Diseño responsive
-+ Presentamos el juego con una pantalla tipo celular principalmente pensando en este dispositivo como algo más casual, un juego que tienes en tu celular y que puedes jugar en cualquier momento.
+## 💰 Créditos
+Fuentes de texto: [Dafont.com](https://www.dafont.com/es/).
+
+Assets hechos con: [LibreSprite](https://libresprite.github.io/#!/).
+
+Musica y efectos de sonido: [Pixabay](https://pixabay.com/es/sound-effects/).
+
+Programado en: [Sublime Text](https://www.sublimetext.com)
 
 > [!IMPORTANT]
 > El juego contiene varias fuentes de texto externas las cuales puedes encontrar en la carpeta "fonts", te recomendamos instalarlas para tener una mejor experiencia visual del juego.
