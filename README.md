@@ -20,6 +20,8 @@ Os: Proporciona funciones para interactuar con el sistema operativo.
 
 Random: Es una biblioteca que nos permite generar números aleatorios.
 
+Time: Este módulo proporciona varias funciones relacionadas con el tiempo.
+
 ## 👤 Integrantes del proyecto
 ### Maria Jose Garcia Macias
 📧 mgarciamac@unal.edu.co
