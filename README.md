@@ -47,3 +47,6 @@ Uno de nuestros objetivos al comenzar a diseñar el juego era centrarnos en que 
 + Escogimos el nombre “CapyBite” ya que es un nombre corto y fácil de recordar. Jugando con las palabras Capybara y Bite ya que es la acción central del juego un chigüiro que muerde para atrapar la comida.
 ## 🎮 Diseño responsive
 + Presentamos el juego con una pantalla tipo celular principalmente pensando en este dispositivo como algo más casual, un juego que tienes en tu celular y que puedes jugar en cualquier momento.
+
+> [!IMPORTANT]
+> El juego contiene varias fuentes de texto externas las cuales puedes encontrar en la carpeta "fonts", te recomendamos instalarlas para tener una mejor experiencia visual del juego.
